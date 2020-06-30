@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using OOPdanCollection.ClassInduk;
-namespace AplikasiKaryawan2723.ClassAnak
+namespace OOPdanCollection.ClassAnak
 
 {
     public class KaryawanHarian : Karyawan
