@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using OOPdanCollection.ClassInduk;
 using OOPdanCollection.ClassAnak;
 
-namespace AplikasiKaryawan2723
+namespace OOPdanCpllection
 {
     class Program
     {
